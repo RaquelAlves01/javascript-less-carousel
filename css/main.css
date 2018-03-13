@@ -2,10 +2,6 @@
   display: none;
 }
 
-html {
-  background-color: #e2e2e2;
-}
-
 #arsinoitherium-control:checked ~ .carousel-inner #arsinoitherium,
 #elasmotherium-control:checked ~ .carousel-inner #elasmotherium,
 #glyptodon-control:checked ~ .carousel-inner #glyptodon,
